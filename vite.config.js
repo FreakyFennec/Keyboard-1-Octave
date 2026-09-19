@@ -21,12 +21,12 @@ export default defineConfig({
 
         icons: [
           {
-            src: '/Keyboard-1-Octave/pwa-192x192.png',
+            src: 'pwa-192x192.png',
             sizes: '192x192',
             type: 'image/png'
           },
           {
-            src: '/Keyboard-1-Octave/pwa-512x512.png',
+            src: 'pwa-512x512.png',
             sizes: '512x512',
             type: 'image/png'
           }
@@ -37,10 +37,7 @@ export default defineConfig({
         globPatterns: [
           '**/*.{js,css,html,ico,png,svg,webp,glb,wav}'
         ],
-
-        cleanupOutdatedCaches: true,
-
-        navigateFallback: '/Keyboard-1-Octave/index.html'
+        cleanupOutdatedCaches: true
       }
     })
   ]
