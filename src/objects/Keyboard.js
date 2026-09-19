@@ -17,7 +17,7 @@ export default class Keyboard {
     const loader = new GLTFLoader()
     const gltf = await new Promise((resolve, reject) =>
       loader.load(
-        '/modeles/gltf/keyboard_1_octave.glb',
+        `${import.meta.env.BASE_URL}modeles/gltf/keyboard_1_octave.glb`,
         resolve,
         undefined,
         reject
@@ -54,7 +54,7 @@ export default class Keyboard {
     // console.log("Key loaded:", note, "mesh name:", obj.name)
 
     // 🔹 charger le son correspondant
-    const audioPath = `/sound/${note}.wav`
+    const audioPath = `${import.meta.env.BASE_URL}sound/${note}.wav`
     this.sounds[note] = new Audio(audioPath)
 
   })
@@ -69,7 +69,7 @@ export default class Keyboard {
 
     // 🔹 jouer le son si trouvé
     const note = Object.keys(this.keys).find(n => this.keys[n] === mesh)
-    
+
     // console.log("Pressed mesh:", mesh.name)
     // console.log("Detected note:", note)
     // console.log("Sound object:", this.sounds[note])

@@ -1,9 +1,9 @@
-// vite.config.js
-
 import { defineConfig } from 'vite'
 import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
+  base: '/Keyboard-1-Octave/',
+
   plugins: [
     VitePWA({
       registerType: 'autoUpdate',
@@ -21,12 +21,12 @@ export default defineConfig({
 
         icons: [
           {
-            src: '/pwa-192x192.png',
+            src: '/Keyboard-1-Octave/pwa-192x192.png',
             sizes: '192x192',
             type: 'image/png'
           },
           {
-            src: '/pwa-512x512.png',
+            src: '/Keyboard-1-Octave/pwa-512x512.png',
             sizes: '512x512',
             type: 'image/png'
           }
@@ -40,7 +40,7 @@ export default defineConfig({
 
         cleanupOutdatedCaches: true,
 
-        navigateFallback: '/index.html'
+        navigateFallback: '/Keyboard-1-Octave/index.html'
       }
     })
   ]
