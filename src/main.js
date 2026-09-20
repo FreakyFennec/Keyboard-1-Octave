@@ -3,6 +3,8 @@
 import SceneManager from './managers/SceneManager.js'
 import Keyboard from './objects/Keyboard.js'
 import RaycasterManager from './modules/raycaster.js'
+import './style/main.css'
+
 
 const sceneManager = new SceneManager()
 

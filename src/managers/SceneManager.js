@@ -22,7 +22,7 @@ export default class SceneManager {
       0.1,
       1000
     )
-    this.camera.position.set(0, 5, 5)
+    this.camera.position.set(0, 5, 9)
 
     /* Renderer */
     this.renderer = createRenderer()
