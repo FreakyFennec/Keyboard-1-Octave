@@ -1,4 +1,4 @@
-// src/objects/Keyboard.js
+﻿// src/objects/Keyboard.js
 
 import * as THREE from "three";
 import { GLTFLoader } from "three/examples/jsm/loaders/GLTFLoader.js";
@@ -14,7 +14,7 @@ export default class Keyboard {
     const loader = new GLTFLoader();
     const gltf = await new Promise((resolve, reject) =>
       loader.load(
-        "/modeles/gltf/keyboard_1_octave.glb",
+        `${import.meta.env.BASE_URL}modeles/gltf/keyboard_1_octave.glb`,
         resolve,
         undefined,
         reject,
@@ -23,15 +23,15 @@ export default class Keyboard {
 
     const model = gltf.scene;
 
-    /* centrer le modèle */
+    /* centrer le modÃ¨le */
     const box = new THREE.Box3().setFromObject(model);
     const center = box.getCenter(new THREE.Vector3());
     model.position.sub(center);
 
-    /* agrandir le modèle */
+    /* agrandir le modÃ¨le */
     model.scale.set(15, 15, 15);
 
-    // 🔹 Mapping exact des notes pour ton GLB
+    // ðŸ”¹ Mapping exact des notes pour ton GLB
     const noteOrder = [
       "B",
       "ASharp",
@@ -52,23 +52,23 @@ export default class Keyboard {
     model.traverse((obj) => {
       if (!obj.isMesh) return;
 
-      // 🔹 utiliser directement le nom du mesh comme note
+      // ðŸ”¹ utiliser directement le nom du mesh comme note
       const note = obj.name;
 
-      // 🔹 ignorer le mesh du corps du clavier
+      // ðŸ”¹ ignorer le mesh du corps du clavier
       if (!noteOrder.includes(note)) {
         return;
       }
 
-      // 🔹 c'est une touche
+      // ðŸ”¹ c'est une touche
       obj.userData.isKey = true;
 
       this.keys[note] = obj;
 
       // console.log("Key loaded:", note, "mesh name:", obj.name)
 
-      // 🔹 charger le son correspondant
-      const audioPath = `/sound/${note}.wav`;
+      // ðŸ”¹ charger le son correspondant
+      const audioPath = `${import.meta.env.BASE_URL}sound/${note}.wav`;
       this.sounds[note] = new Audio(audioPath);
     });
 
@@ -92,3 +92,5 @@ export default class Keyboard {
     }, 100);
   }
 }
+
+
