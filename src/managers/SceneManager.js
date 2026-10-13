@@ -31,6 +31,17 @@ export default class SceneManager {
     this.controls = new OrbitControls(this.camera, this.renderer.domElement)
     this.controls.enableDamping = true
 
+    // Limiter la rotation verticale
+    this.controls.minPolarAngle =  Math.PI / 4
+    this.controls.maxPolarAngle =  Math.PI / 8
+
+    // Limiter la rotation horizontale
+    this.controls.minAzimuthAngle = -Math.PI / 0
+    this.controls.maxAzimuthAngle =  Math.PI / 0
+
+    this.controls.minAzimuthAngle = this.controls.getAzimuthalAngle()
+    this.controls.maxAzimuthAngle = this.controls.getAzimuthalAngle()
+
     /* Lights */
     lighting(this.scene)
 
