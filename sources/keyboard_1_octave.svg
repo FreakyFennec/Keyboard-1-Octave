@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4254"
+   sodipodi:docname="keyboard-1-octave.svg"
+   viewBox="0 0 384.141 268.9093"
+   version="1.1"
+   inkscape:version="0.92.0 r15299"
+   width="384.14099"
+   height="268.90927">
+  <defs
+     id="defs4764" />
+  <title
+     id="title5312">Standard 88-key Piano Keyboard</title>
+  <sodipodi:namedview
+     id="base"
+     fit-margin-left="10"
+     inkscape:zoom="0.76787235"
+     borderopacity="1.0"
+     inkscape:current-layer="layer2"
+     inkscape:cx="273.35382"
+     inkscape:cy="204.43082"
+     fit-margin-right="10"
+     inkscape:window-maximized="0"
+     showgrid="false"
+     width="0mm"
+     inkscape:guide-bbox="true"
+     units="mm"
+     showguides="true"
+     bordercolor="#666666"
+     inkscape:window-x="42"
+     inkscape:window-y="47"
+     fit-margin-bottom="10"
+     inkscape:window-width="1002"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     pagecolor="#ffffff"
+     inkscape:document-units="px"
+     inkscape:window-height="747"
+     fit-margin-top="10" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer13"
+     inkscape:label="B"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4911-0-6"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 346.03722,239.42707 v 147.70361 h -22.121 v 98.47883 l 4.66712,2.05191 h 40.59864 l 4.50985,-1.98278 V 239.42498 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer12"
+     inkscape:label="A#"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4307-7-08-1-2"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.57952964px"
+       d="m 316.31784,239.43179 v 144.26089 h 26.56473 V 239.52201 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer11"
+     inkscape:label="A"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4909-2-7"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 286.57459,239.42707 v 147.70361 h -14.67511 v 98.28889 l 4.90894,2.15829 h 39.96326 l 4.41787,-1.94238 V 387.0047 H 313.3252 V 239.42931 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer10"
+     inkscape:label="G#"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4307-7-4-6-8"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.57952964px"
+       d="m 256.78245,239.43179 v 144.26089 h 26.56473 V 239.52201 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer9"
+     inkscape:label="G"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4907-8-9"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 226.80994,239.42707 v 147.64188 h -7.37933 v 98.47883 l 4.2535,1.87009 h 41.28098 l 4.17437,-1.83538 V 387.06567 H 253.5608 V 239.42379 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer8"
+     inkscape:label="F#"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4307-7-0-2-2"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.57952964px"
+       d="m 196.9041,239.43179 v 144.26089 h 26.56473 V 239.52201 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="F"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4873-1-6"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 166.92472,239.42707 v 245.86427 l 5.20663,2.28917 h 40.74721 l 4.24781,-1.86768 V 387.25775 H 193.84288 V 239.42593 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="E"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4841-0-8-7"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 136.11315,239.3321 v 147.70361 h -21.46766 v 98.35061 l 4.82918,2.1233 h 40.78899 l 4.62296,-2.03255 V 239.33262 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="D#"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4307-7-6-4-2"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.57952964px"
+       d="m 105.84695,239.33681 v 144.26091 h 26.56472 V 239.42704 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="D"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4819-5-7-2"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="M 73.850028,239.3321 V 387.11168 H 62.465499 v 98.25089 l 4.715066,2.07301 h 41.061495 l 4.30556,-1.89299 V 387.02103 H 101.48236 V 239.33167 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="C#"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4307-4-9-3"
+       style="display:inline;fill:#000000;stroke:#000000;stroke-width:0.57952964px"
+       d="M 43.303121,239.59798 V 383.85889 H 69.867845 V 239.68821 Z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="C"
+     style="display:inline"
+     transform="translate(0.1593893,-229.0419)">
+    <path
+       id="path4305-5-4-2"
+       style="display:inline;fill:#ffffff;stroke:#000000;stroke-width:0.57952964px"
+       d="m 10.384552,239.57428 h 28.51151 V 387.15917 H 60.36372 v 98.35061 l -4.03556,1.77418 H 14.409886 l -4.279315,-1.8814 z"
+       inkscape:export-ydpi="170.04636"
+       inkscape:export-filename="/files1/data/projects/EducationalGames/musicmaster/graphics/piano-keyboard.png"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="170.04636"
+       sodipodi:nodetypes="ccccccccc" />
+  </g>
+  <metadata
+     id="metadata4761">
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:publisher>
+          <cc:Agent
+             rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Standard 88-key Piano Keyboard</dc:title>
+        <dc:date>2011-02-14T04:42:21</dc:date>
+        <dc:description>Standard 88-key piano keyboard. Distance between octaves is approximately 165 mm, per http://en.wikipedia.org/wiki/Musical_keyboard. Relative key dimensions similar to some commercial electric pianos.</dc:description>
+        <dc:source>https://openclipart.org/detail/118225/standard-88-key-piano-keyboard-by-markroth8</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>markroth8</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>keyboard</rdf:li>
+            <rdf:li>piano</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
